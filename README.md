@@ -1,2 +1,2 @@
-# app-privacty
+# app-privacy
 app-privacy
